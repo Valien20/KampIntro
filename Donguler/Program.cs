@@ -17,7 +17,7 @@ namespace Donguler
             foreach (string kurs in kurslar)
             {
                 Console.WriteLine(kurslar);
-                Console.WriteLine("ZEHRABUREA");
+               
             }
 
             
